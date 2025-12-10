@@ -19,3 +19,4 @@ Thumbs.db
 # IDE files
 *.iml
 .idea/
+.gitignore
